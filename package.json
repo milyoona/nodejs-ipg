@@ -1,0 +1,19 @@
+{
+  "name": "milyoona-ipg",
+  "version": "1.0.0",
+  "description": "convenience for communicating with milyoona payment API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milyoona/nodejs-ipg.git"
+  },
+  "author": "ali farbod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milyoona/nodejs-ipg/issues"
+  },
+  "homepage": "https://github.com/milyoona/nodejs-ipg#readme"
+}
