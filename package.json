@@ -1,6 +1,6 @@
 {
   "name": "milyoona-ipg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convenience for communicating with milyoona payment API",
   "main": "index.js",
   "scripts": {
